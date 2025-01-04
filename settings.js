@@ -13,7 +13,7 @@ const axios = require('axios')
 
 //---------[ PROPIETARIO/OWNER ]---------
 global.owner = [
-    ["50582340051", "Owner", true],
+    ["542494007002", "Owner", true],
     ["595984838201"],
     ["51918534156"],
     ["123456789"]
@@ -38,8 +38,8 @@ function pickRandom(array) {
 
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +59309090909
-global.phoneNumber = ""
+global.botNumberCode = "542494007002" //Ejemplo: +59309090909
+global.phoneNumber = "542494007002"
 
 //---------[ FECHA/IDIOMAS ]---------
 global.place = 'America/Managua' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
