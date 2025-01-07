@@ -24,7 +24,7 @@ global.blockList = []
 
 //---------[ NOMBRE/INFO ]---------
 global.pagina = "https://ansibot.netlify.app/"
-global.botname = "✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
+global.botname = "Tae-Sorrita-del-team"
 global.wm = '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨'
 global.vs = '𝟮.𝟭'
 global.creador = '𝐸𝐿𝐼𝐴𝑆𝐴𝑅 𝑌𝑇'
